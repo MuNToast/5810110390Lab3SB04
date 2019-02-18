@@ -1,0 +1,13 @@
+body{
+    background-color:rgb(238, 83, 36);
+
+}
+input{
+    background-color: white !important;
+}
+table{
+    background-color: rgb(25, 22, 230) !important;
+}
+th{
+    text-align: center;
+}
